@@ -1,20 +1,27 @@
-site_name: "ICBO: International Conference on Biomedical Ontology"
-# repo_url: https://github.com/ICBO-conference/icbo20XX # edit info to link to your github repository
-# edit_uri: '?query=root/icbo20XX/docs/' # edit uri to point to your github repository
+site_name: ICBO
+site_url: https://sourcefoundry.org/cinder/
+site_author: International Conference on Biomedical Ontology
+site_description: "International Conference on Biomedical Ontology ICBO"
+repo_url: "https://github.com/erfelipe2/icbotest"
+copyright: "Cinder template is licensed under the <a href='https://github.com/erfelipe2/icbotest/blob/master/LICENSE.md'>MIT license</a>"
+
 theme:
-  name: readthedocs
+  name: null
+  custom_dir: cinder
+  colorscheme: github
+  highlightjs: true
+
 nav:
   - Home: index.md
-  - Call for Submissions: call-for-submissions.md
-  - Keynote Speakers: keynote-speakers.md
-  # - Journal of Biomedical Semantics ICBO Thematic Series: submit-jbms-icbo.md # uncomment to see page on website
-  - Workshops & Tutorials: workshops-and-tutorials.md
-  - Conference Proceeding Publication Requirements: proceeding-publication-requirements.md
-  - Registration: icbo-registration.md
-  - ICBO Hotel Options: icbo-hotels.md
-  - Travel to ICBO:  icbo-travel.md
-  - Schedule: icbo-schedule.md
-  - Papers and Poster Abstracts: papers-and-poster-abstracts.md
-  - Contact Information: contact-information.md
-  - Co-organizers: co-organizers.md
-  - Program Committee: program-committee.md
+  - Conference: conference.md
+  - Program: program.md
+  - Call for Submissions: call.md
+  - Registration: registration.md
+  # - Travel: travel.md
+  # - Example 1: example1.md
+  # - Example 2: example2.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
