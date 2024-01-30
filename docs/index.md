@@ -39,7 +39,7 @@ Please see [details here](call.md) for further information.
     <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
 </ul>
 
-[Biografy and Details](keynotes.md)
+[Biography and Details](keynotes.md)
 
 ### Location
 
