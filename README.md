@@ -1,5 +1,5 @@
 # ICBO Template
-This repository is a template for creating ICBO conference repositories. Instructions for using this template to create a specific ICBO conference repository is included below. For more speci instructions, see the [GitHub instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for how to create a repository from a template.
+This repository is a template for creating ICBO conference repositories. Instructions for using this template to create a specific ICBO conference repository is included below. For more specific instructions, see the [GitHub instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for how to create a new repository from a template.
 
 Once your repository has been created, you are free to configure your ICBO repisitory as you desire. Any suggestions or contributions on how to make the instructions for (this) the template repository are welcome. 
 
@@ -46,19 +46,15 @@ The template is set up to use [mkdocs](https://www.mkdocs.org/) to configure a `
 
 The template provides a set of default webpages in the `docs/` folder. These include:  
 ```
-call-for-submissions.md  
-co-organizers.md  
-contact-information.md  
-icbo-hotels.md  
-icbo-registration.md  
-icbo-schedule.md  
-icbo-travel.md  
-keynote-speakers.md  
-papers-and-poster-abstracts.md  
-proceeding-publication-requirements.md  
-program-committee.md  
-submit-jbms-icbo.md  (optional)
-workshops-and-tutorials.md  
+call.md  
+conference.md
+example1.md
+example2.md  
+index.md  
+keynotes.md  
+program.md  
+registration.md
+travel.md (deprecated)
 ```
 The content for the landing page is in the `index.md` file. You can add or remove content as needed (see below).  
 
@@ -66,11 +62,11 @@ The website navigation menu is controlled by associating menu labels with markdo
 
 ## Editing website content 
 
-The website content is contained in the `docs/`, `docs/images/`, `docs/papers/`, `docs/slides/`, and `docs/flash-talks/` directories. Editing any of the `*.md` files or adding/changing an image **should** fire off an action to build and deploy the website. This GitHub action can be checked by navigating to the `Actions` page:
+The website content is contained in the `docs/`, `docs/papers/`, `docs/slides/`, and `docs/flash-talks/` directories. Editing any of the `*.md` files or adding/changing an information **should** fire off an action to build and deploy the website. This GitHub action can be checked by navigating to the `Actions` page:
 
 ![github-actions-link](readme-images/github-actions-link.png)
 
-and verifying that the changes fired off an action. For example, here is an action that started as a result of an update the to the `call-for-submissions.md`:
+and verifying that the changes fired off an action. For example, here is an action that started as a result of an update the to the `call.md`:
 
 ![github-actions-call-for-submissions-example](readme-images/github-actions-call-for-submissions-example.png)  
 
@@ -85,14 +81,14 @@ Adding new webpage takes two steps:
 
 ## Adding new images
 
-A new image is added to the website is done by simply saving a the image to the `docs/images/` directory. However, referencing the image from the `md` file is a bit nuanced.  
+A new image is added to the website is done by simply saving a the image to the `img` directory. However, referencing the image from the `md` file is a bit nuanced.  
 
-If you reference the image using markdown syntax, you include the `images` directory in the path to the images. For example, in the `docs/call-for-submissions.md` document, the reference to a image is done like so:
+If you reference the image using markdown syntax, you include the `images` directory in the path to the images. For example, in the `docs/call.md` document, the reference to a image is done like so:
 ```
-![submission type](images/test-image.png)
+![submission type](img/test-image.png)
 ```
 
-However, if you are customizing the image with an HTML `<img>` tag, you use the `../images` directory in the path to the image. For example, `src='../images/test-image.png'` is the path needed when setting the margins of an image like this:
+However, if you are customizing the image with an HTML `<img>` tag, you use the `../img` directory in the path to the image. For example, `src='../img/test-image.png'` is the path needed when setting the margins of an image like this:
 ```
 <img src='../images/test-image.png' align='left' style='margin:10px 20px 0px 0px' />
 ```
@@ -102,26 +98,19 @@ The reason for this has to do with how `read the docs` processes images, but I d
 
 If (for some reason) the GitHub action does not fire, you can manually run it. First, on the `Actions` page, select the `Build and Deploy Static Mkdocs Documentation` workflow.  
 
-
 ![github-actions-select-workflow](readme-images/github-actions-select-workflow.png)
-
 
 Next, click on the `Run workflow` button.  
 
-
 ![github-actions-run-build-workflow](readme-images/github-actions-run-build-workflow.png)  
-
 
 Once the workflow starts running, you will see yellow dot beside the workflow name.  
 
 ![github-actions-build-running](readme-images/github-actions-build-running.png)
 
-
 After the workflow, completes you will see a green check beside the workflow name.
 
-
 ![github-actions-build-complete](readme-images/github-actions-build-complete.png)
-
 
 Verify that the edits are displayed on the website. 
 
