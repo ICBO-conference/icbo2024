@@ -1,9 +1,16 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2024 <small>conference</small></h1>
 
-## [NUMBER]th International Conference on Biomedical Ontology 
+## 15th International Conference on Biomedical Ontology 
 
-ICBO is a anual conference [...] 
+The International Conference on Biomedical Ontology (ICBO) is a
+premier annual conference series that brings together researchers,
+students and professionals involved in the development and application
+of ontologies in all areas of biology, medicine, diseases, human
+health, genome biology, environment, biomes, nutrition, food, plants,
+agriculture and others. Together, they address issues pertaining to
+coordinated development of ontological resources, data standards, as
+well as the optimal use of ontologies in applications.
 
 ## Theme of Conference 
 
@@ -12,17 +19,17 @@ ICBO is a anual conference [...]
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: [MONTH] [DAYNUMBER]th to [MONTH] [DAYNUMBER]st ([DAYSTRING]-[DAYSTRING])</li> 
+    <li><b>Conference Dates</b>: July 17th to July 19st 2024 (17-07-2024 to 19-07-2024)</li> 
     <ul>
-        <li><b>Workshops/tutorials</b>: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
-        <li><b>Main conference</b>: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
+        <li><b>Workshops/tutorials</b>: July 17, 2024</li>
+        <li><b>Main conference</b>: July 18 - July 19, 2024</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
-        <li>Workshops and Tutorials submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
+        <li>Workshops submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
         <li>Software demo submission deadline: [MONTH] [DAYNUMBER], 2024. Notification: [MONTH] [DAYNUMBER], 2024</li>
         <li> <b>ICBO Conference Papers and Abstracts deadline:</b> [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024 (tentative)</li>
+        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
     </ul>
   </ul>
 
@@ -43,7 +50,7 @@ Please see [details here](call.md) for further information.
 
 ### Location
 
-The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held at the [LOCAL]</b>, [LOCATION]
+The 15th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held at the University Twente, Enschede</b>, The Netherlands
 
 <iframe
     width="800" height="450" style="border:0"
