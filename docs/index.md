@@ -61,6 +61,6 @@ The 15th International Conference of Biomedical Ontology (ICBO 2024) <b>will be 
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to <a href="mailto:robert.hoehndorf@kaust.edu.sa?subject=ICBO Conference-Information">[EMAIL]</a>.
 
 

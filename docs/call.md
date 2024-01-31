@@ -1,9 +1,9 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2024 <small>conference</small></h1>
 
 ## General Information 
 
-The focus of our 2023 conference is <b>[THEME]</b>.
+The focus of our 2024 conference is <b></b>.
 
 ### Important Dates 
 
