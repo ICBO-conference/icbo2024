@@ -39,7 +39,7 @@ Formal Ontology in Information Systems (FOIS).
 
 ### Call for Submissions 
 
-Please see [the Call for Papers](call.md) for further information.
+Please see the [Call for Papers](call.md) for further information.
 
 ### Keynote Speakers
 
