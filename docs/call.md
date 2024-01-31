@@ -3,22 +3,22 @@
 
 ## General Information 
 
-The focus of our 2024 conference is <b></b>.
+The focus of the ICBO 2024 conference is <b> Unifying Biological Knowledge: From Molecules to Ecosystems</b>.
 
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: [MONTH] [DAYNUMBER]th to [MONTH] [DAYNUMBER]st ([DAYSTRING]-[DAYSTRING])</li> 
+    <li><b>Conference Dates</b>: July 17th to July 19th 2024</li> 
     <ul>
-        <li><b>Workshops/tutorials</b>: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
-        <li><b>Main conference</b>: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
+        <li><b>Workshops/tutorials</b>: July 17, 2024</li>
+        <li><b>Main conference</b>: July 18 - July 19, 2024</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
-        <li>Workshops and Tutorials submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
-        <li>Software demo submission deadline: [MONTH] [DAYNUMBER], 2024. Notification: [MONTH] [DAYNUMBER], 2024</li>
-        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024 (tentative)</li>
+        <li>Workshops submission deadline: 15 March 2024. Notification 29 March 2024</li>
+        <li>Software demo submission deadline: 17 April 2024. Notification: 15 May 2024</li>
+        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> 26 March 2024. Notification 15 May 2024</li>
+        <li>Journal Track submission deadline: continuous</li>
     </ul>
   </ul>
 
