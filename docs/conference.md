@@ -19,7 +19,7 @@ solutions.
 
 ### Theme of Conference 
 
-[<i> <b> "[THEME]" </b> </i>]
+[<i> <b> "Unifying Biological Knowledge: From Molecules to Ecosystems" </b> </i>]
 
 ### Conference Date 
 
