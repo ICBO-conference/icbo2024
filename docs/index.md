@@ -47,7 +47,7 @@ Please see [the Call for Papers](call.md) for further information.
     <li>to be decided</li>
 </ul>
 
-<!--
+<!---
 [Biography and Details](keynotes.md)
 --!>
 
