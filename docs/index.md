@@ -17,37 +17,39 @@ applications.
 
 <i> <b> Unifying Biological Knowledge: From Molecules to Ecosystems </b> </i>
 
+ICBO 2024 is colocated with the 14th International Conference on
+Formal Ontology in Information Systems (FOIS).
+
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: July 17th to July 19st 2024 (17-07-2024 to 19-07-2024)</li> 
+    <li><b>Conference Dates</b>: July 17th to July 19th 2024</li> 
     <ul>
         <li><b>Workshops/tutorials</b>: July 17, 2024</li>
         <li><b>Main conference</b>: July 18 - July 19, 2024</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Workshops submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
-        <li>Software demo submission deadline: [MONTH] [DAYNUMBER], 2024. Notification: [MONTH] [DAYNUMBER], 2024</li>
-        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024 (tentative)</li>
-        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
+        <li>Workshops submission deadline: 15 March 2024. Notification 29 March 2024</li>
+        <li>Software demo submission deadline: 17 April 2024. Notification: 15 May 2024</li>
+        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> 26 March 2024. Notification 15 May 2024</li>
+        <li>Journal Track submission deadline: continuous</li>
     </ul>
   </ul>
 
 ### Call for Submissions 
 
-Please see [details here](call.md) for further information.
+Please see [the Call for Papers](call.md) for further information.
 
 ### Keynote Speakers
 
 <ul>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
+    <li>to be decided</li>
 </ul>
 
+<!--
 [Biography and Details](keynotes.md)
+--!>
 
 ### Location
 
@@ -62,6 +64,6 @@ loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:robert.hoehndorf@kaust.edu.sa?subject=ICBO Conference-Information">robert.hoehndorf@kaust.edu.sa</a>.
-
-
+Please direct all further questions to <a
+href="mailto:robert.hoehndorf@kaust.edu.sa?subject=ICBO
+Conference-Information">robert.hoehndorf@kaust.edu.sa</a>.
