@@ -36,7 +36,7 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
 
 ### Organization Committee
 
-<p>Below is the list of the General Committee of the event, being the responsibility of the general coordination to align the needs and integration among all members. </p>
+<p>These are the people involved in organization ofICBO 2024:</p>
   
   <h4><b>President of the organizing committee of the ICBO 202x Conference</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
@@ -49,13 +49,8 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
-  <h4><b>Program Committee Coordination (ICBO 2023)</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-
-  <h4><b>Program Committee Coordination (ONTOBRAS 2023)</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+  <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
+  <p>Prof. Dr. Karin Slater(University of Birmingham)</p>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Coordination of Workshops, Tutorials and Software Demonstrations (ICBO 2023)</b></h4>
