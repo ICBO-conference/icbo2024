@@ -124,26 +124,9 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
     </li>
 </ul>
 
-### Photographic Register - 2024
-
-<ul>
-    <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..." target="_blank">https://photos.app.goo.gl/...</a></li>
-    <!-- <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..."
-            target="_blank">https://photos.app.goo.gl/...</a></li>
-    <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..."
-            target="_blank">https://photos.app.goo.gl/...</a></li>
-    <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..."
-            target="_blank">https://photos.app.goo.gl/...</a></li>
-    <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..."
-            target="_blank">https://photos.app.goo.gl/...</a></li> -->
-</ul>
-
-### Proceedings 2024
-
-The Proceedings of this conference can be access in: <a href="[LINKOFPROCEEDINGS]" target="_blank">[LINKOFPROCEEDINGS]</a>
-
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to <a
+href="mailto:robert.hoehndorf@kaust.edu.sa?subject=ICBO 2024">robert.hoehndorf@kaust.edu.sa</a>.
 
 
