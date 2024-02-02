@@ -57,7 +57,7 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
   <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
 
   <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
-  <p>Karin Slater (University of Birmingham)</p>
+
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
