@@ -24,10 +24,10 @@ solutions.
 ### Conference Date 
 
 <ul>
-    <li><b>[MONTH] [NUMBER]th to [MONTH] [NUMBER]st ([DAYSTRING]-[DAYSTRING])</b></li>
+    <li><b>17 July to 19 July 2024</b></li>
     <ul>
-        <li>Workshops and tutorials: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
-        <li>Main conference: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
+        <li>Workshops: 17 July 2024</li>
+        <li>Main conference: 18 July to 19 July 2024</li>
     </ul>
 </ul>
 
@@ -35,7 +35,11 @@ solutions.
 
 [DESCRIBELOCAL]
 
-The 15th International Conference on Biological and Biomedical Ontology (ICBO 2024) <b>will be held at the [LOCAL]</b>, [LOCATION]
+The 15th International Conference on Biological and Biomedical
+Ontology (ICBO 2024) <b>will be held at the Univerity of Twente</b>,
+the Netherlands, and co-located with the 14th International Conference
+on Formal Ontology in Information Systems (FOIS).
+
 <h4><b>[CITY]</b></h4>
 
 <ul>
@@ -51,16 +55,14 @@ The 15th International Conference on Biological and Biomedical Ontology (ICBO 20
   <h4><b>President of the organizing committee of the ICBO 202x Conference</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
-  <h4><b>Local coordination of the 202x ICBO Conference</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+  <h4><b>Local coordination of the 2024 ICBO Conference</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Overall coordination</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
-  <p>Prof. Dr. Karin Slater(University of Birmingham)</p>
+  <p>Prof. Dr. </p>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Coordination of Workshops, Tutorials and Software Demonstrations (ICBO 2023)</b></h4>
