@@ -72,7 +72,10 @@ Knowledge: From Molecules to Ecosystems</b>.
 
 #### Workshops and Tutorials accepted
 
-<p>Take a look at ICBO 202x conference proposals accepted <a href="../program">here</a> </p>
+<p>Workshops are part of the JOWO series and all accepted workshops
+are listed <a
+href="https://www.utwente.nl/en/eemcs/fois2024/workshops/">here</a>
+</p>.
 
 ## Call for ICBO Conference Papers and Abstracts
 
@@ -85,7 +88,7 @@ The following paper categories are welcome:
     <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
     <li><b>For each paper/poster accepted, at least one author must
 	register and present at ICBO.</b></li>
-    <li>Submission link: tbd</a></li>
+    <li>Submission link: coming soon</a></li>
 </ul>
 
 #### Topics of Interest 
