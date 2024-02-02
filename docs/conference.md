@@ -34,17 +34,17 @@ solutions.
 ### Local
 
 The 15th International Conference on Biological and Biomedical
-Ontology (ICBO 2024) <b>will be held at the Univerity of Twente</b>,
+Ontology (ICBO 2024) will be held at the <b>University of Twente</b>,
 the Netherlands, and co-located with the <a
 href="https://www.utwente.nl/en/eemcs/fois2024/">14th International
 Conference on Formal Ontology in Information Systems (FOIS)</a>.
 
 <h4><b>Enschede</b></h4>
 
-<ul>
-    <li>University of Twente</li>
-    <li>Enschede, The Netherlands</li>
-</ul>
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.205343783129!2d6.84721507744324!3d52.23965377198911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b813d992e2ab01%3A0x790b33d6b663608f!2sUniversity%20of%20Twente!5e0!3m2!1sen!2ssa!4v1706722502304!5m2!1sen!2ssa"
+width="600" height="450" style="border:0;" allowfullscreen=""
+loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Organization Committee
 
