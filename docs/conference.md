@@ -24,11 +24,11 @@ solutions.
 ### Conference Date 
 
 <ul>
-    <li><b>17 July to 19 July 2024</b></li>
-    <ul>
-        <li>Workshops: 17 July 2024</li>
-        <li>Main conference: 18 July to 19 July 2024</li>
-    </ul>
+<li><b>17 July to 19 July 2024</b></li>
+<ul>
+<li>Workshops: 17 July 2024</li>
+<li>Main conference: 18 July to 19 July 2024</li>
+</ul>
 </ul>
 
 ### Local
@@ -48,80 +48,61 @@ loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Organization Committee
 
-<p>These are the people involved in organization ofICBO 2024:</p>
-  
-  <h4><b>Local coordination of the 2024 ICBO Conference</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+<p>These are the people involved in organization of ICBO 2024:</p>
 
-  <h4><b>Overall coordination</b></h4>
-  <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
+<h4><b>General Chair</b></h4>
+<p>Robert Hoehndorf, King Abdullah University of Science and
+Technology, Saudi Arabia</p>
 
-  <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
+<h4><b>Program Committee Chair (ICBO 2024)</b></h4>
+<p>tbd</p>
 
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+<h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
+<p>Asiyah Lin</p>
 
-  <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
-  <p>Dr Asiyah Lin ([UNIVERSITY])</p>
+<h4><b>Local organization (FOIS and ICBO)</b></h4>
+<p>Tiago Prince Sales, University of Twente, The Netherlands</p>
 
-  <h4><b>Journal Track Chair</b></h4>
-  <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
+<h4><b>Journal Track Chair</b></h4>
+<p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
 
-  <h4><b>Coordination of the Workshop on Theses and Dissertations in Ontologies (WTDO)</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+<h4><b>Website and Outreach Chair</b></h4>
+<p>tbd</p>
 
-  <h4><b>Coordination of Proceedings </b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-
-  <h4><b>Advertising Coordination </b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-
-  <h4><b>Website Coordination </b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-
-  <h4><b>Volunteers:</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p> 
 
 ### Previous ICBO Conferences
 
 <ul>
-    <li>2023: Brasilia, DF, Brazil 
-    <a href="https://www.icbo2023.ncor-brasil.org/index.html">www.icbo2023.ncor-brasil.org</a>
-    </li>
-    <li>2022: Ann Arbor, MI, USA <a
-            href="https://icbo-conference.github.io/icbo2022/">icbo-conference.github.io/icbo2022</a></li>
-    <li>2021: Bolzano, Italy <a href="https://icbo2021.inf.unibz.it/">icbo2021.inf.unibz.it</a> (<a
-            href="http://ceur-ws.org/Vol-3073/">proceedings</a>)</li>
-    <li>2020: Bolzano, Italy <a href="https://icbo2020.inf.unibz.it/">icbo2020.inf.unibz.it</a> (<a
-            href="http://ceur-ws.org/Vol-2807/">proceedings</a>)</li>
-    <li>2019: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/">icbo.buffalo.edu</a> (<a
-            href="http://ceur-ws.org/Vol-2931/">proceedings</a>)</li>
-    <li>2018: Corvallis, OR, USA <a
-            href="https://icbo2018.cgrb.oregonstate.edu/">icbo2018.cgrb.oregonstate.edu</a> (<a
-            href="http://ceur-ws.org/Vol-2285/">proceedings</a>)</li>
-    <li>2017: Newcastle, UK <a
-            href="https://conferences.ncl.ac.uk/icbo17/">https://conferences.ncl.ac.uk/icbo17</a> (<a
-            href="http://ceur-ws.org/Vol-2137/">proceedings</a>)</li>
-    <li>2016: Corvallis, OR, USA <a
-            href="https://icbo2016.cgrb.oregonstate.edu/">icbo2018.cgrb.oregonstate.edu</a> (<a
-            href="http://ceur-ws.org/Vol-1747/">proceedings</a>)</li>
-    <li>2015: Lisbon, Portugal <a href="http://icbo2015.fc.ul.pt/">http://icbo2015.fc.ul.pt</a> (<a
-            href="http://ceur-ws.org/Vol-1515/">proceedings</a>)</li>
-    <li>2014: Houston, TX, USA (<a href="http://ceur-ws.org/Vol-1327/">proceedings</a>)</li>
-    <li>2013: Montreal, Canada (<a href="http://ceur-ws.org/Vol-1060/">proceedings</a>)</li>
-    <li>2012: Graz, Austria (<a href="http://ceur-ws.org/Vol-897/">proceedings</a>)</li>
-    <li>2011: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/2011/">http://icbo.buffalo.edu/2011</a> (<a
-            href="http://ceur-ws.org/Vol-833/">proceedings</a>)</li>
-    <li>2009: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/2009/">http://icbo.buffalo.edu/2009</a> (<a
-            href="https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf">proceedings</a>)
-    </li>
+<li>2023: Brasilia, DF, Brazil 
+<a href="https://www.icbo2023.ncor-brasil.org/index.html">www.icbo2023.ncor-brasil.org</a>
+</li>
+<li>2022: Ann Arbor, MI, USA <a
+href="https://icbo-conference.github.io/icbo2022/">icbo-conference.github.io/icbo2022</a></li>
+<li>2021: Bolzano, Italy <a href="https://icbo2021.inf.unibz.it/">icbo2021.inf.unibz.it</a> (<a
+href="http://ceur-ws.org/Vol-3073/">proceedings</a>)</li>
+<li>2020: Bolzano, Italy <a href="https://icbo2020.inf.unibz.it/">icbo2020.inf.unibz.it</a> (<a
+href="http://ceur-ws.org/Vol-2807/">proceedings</a>)</li>
+<li>2019: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/">icbo.buffalo.edu</a> (<a
+href="http://ceur-ws.org/Vol-2931/">proceedings</a>)</li>
+<li>2018: Corvallis, OR, USA <a
+href="https://icbo2018.cgrb.oregonstate.edu/">icbo2018.cgrb.oregonstate.edu</a> (<a
+href="http://ceur-ws.org/Vol-2285/">proceedings</a>)</li>
+<li>2017: Newcastle, UK <a
+href="https://conferences.ncl.ac.uk/icbo17/">https://conferences.ncl.ac.uk/icbo17</a> (<a
+href="http://ceur-ws.org/Vol-2137/">proceedings</a>)</li>
+<li>2016: Corvallis, OR, USA <a
+href="https://icbo2016.cgrb.oregonstate.edu/">icbo2018.cgrb.oregonstate.edu</a> (<a
+href="http://ceur-ws.org/Vol-1747/">proceedings</a>)</li>
+<li>2015: Lisbon, Portugal <a href="http://icbo2015.fc.ul.pt/">http://icbo2015.fc.ul.pt</a> (<a
+href="http://ceur-ws.org/Vol-1515/">proceedings</a>)</li>
+<li>2014: Houston, TX, USA (<a href="http://ceur-ws.org/Vol-1327/">proceedings</a>)</li>
+<li>2013: Montreal, Canada (<a href="http://ceur-ws.org/Vol-1060/">proceedings</a>)</li>
+<li>2012: Graz, Austria (<a href="http://ceur-ws.org/Vol-897/">proceedings</a>)</li>
+<li>2011: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/2011/">http://icbo.buffalo.edu/2011</a> (<a
+href="http://ceur-ws.org/Vol-833/">proceedings</a>)</li>
+<li>2009: Buffalo, NY, USA <a href="http://icbo.buffalo.edu/2009/">http://icbo.buffalo.edu/2009</a> (<a
+href="https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf">proceedings</a>)
+</li>
 </ul>
 
 ### Contact Information 
