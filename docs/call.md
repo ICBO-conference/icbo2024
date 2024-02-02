@@ -3,7 +3,8 @@
 
 ## General Information 
 
-The focus of the ICBO 2024 conference is <b> Unifying Biological Knowledge: From Molecules to Ecosystems</b>.
+The focus of the ICBO 2024 conference is <b> Unifying Biological
+Knowledge: From Molecules to Ecosystems</b>.
 
 ### Important Dates 
 
@@ -22,52 +23,6 @@ The focus of the ICBO 2024 conference is <b> Unifying Biological Knowledge: From
     </ul>
   </ul>
 
-### ICBO Conference Proceeding Publication Requirements
-
-<p>All conference submissions accepted will be published in the <a href="http://ceur-ws.org/"
-        target="_blank">CEUR
-        Workshop Proceedings</a> as part of the new <a href="http://ceur-ws.org/iaoa.html"
-        target="_blank">IAOA series</a>.
-</p>
-<p>An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3073/"
-        target="_blank">here</a></p>
-
-<p>In order for this to happen, the following requirements must be satisfied.</p>
-
-<!-- <h4>Submission Format (Workshops, Tutorials, Papers and Abstracts)</h4> -->
-<ol type="1">
-    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the CEUR
-        template, <b>single column</b>.</li>
-    <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are
-        added to the footnote on the lower left of the first page.</li>
-    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a
-        Contribution as Open-Access on CEUR-WS.org prepared by the
-        corresponding author. Please download one of the ICBO 202x customized form bellow:
-        <ol type="a">
-            <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12"
-                    target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included
-                no copyrighted third party material in their paper text (or accompanying sources, datasets).
-                This is the right variant in most cases.</li>
-            <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12"
-                    target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did
-                include copyrighted third party material in their paper or accompanying material. They must
-                then also attach a copy of the permission by the third party to use this material in the
-                signed author agreement!</li>
-        </ol>
-    <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print it out, sign it in ink (by hand), then
-            scan or photograph the form and <u>both upload it on easychair and send it to <a
-                    href="mailto:mail@domain?subject=Author Agreement for submission PAPER ">mail{at}domain</a></u>
-        </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".
-    </li>
-    <ul>
-        <li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an
-            alternative method to provide a signature if you are unable to print the form, as shown here: <a
-                href="https://ceur-ws.org/agreement-paper1.jpg"
-                target="_blank">https://ceur-ws.org/agreement-paper1.jpg</a>
-        </li>
-    </ul>
-    <li>Update your camera-ready paper on easychair.</li>
-</ol>
 
 ## Workshops, Tutorials and Demos
 ### Call for Workshops, Tutorials and Demos 
@@ -121,18 +76,16 @@ The focus of the ICBO 2024 conference is <b> Unifying Biological Knowledge: From
 
 ## Call for ICBO Conference Papers and Abstracts
 
-Submission deadline: Month Day, 202x. Notification: Month Day, 202x</li>
+Submission deadline: 26 March 2024. Notification: 15 May, 2024</li>
 
 The following paper categories are welcome:
 <ul>
-    <li>Full length papers: 8-12 pages (Including references).</li>
-    <li>Short papers: up to 7 pages (Including references).</li>
+    <li>Full length papers: up to 12 pages (including references).</li>
+    <li>Short papers: up to 7 pages (including references).</li>
     <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
-    <li><b>For each paper/poster accepted, at least one author must register until Month Day as presenter fee.</b></li>
-    <li>Details on: <a href="https://easychair.org/cfp/icboYEAR"
-            target="_blank">https://easychair.org/cfp/icboYEAR</a></li>
-    <li>Submission link: <a href="https://easychair.org/conferences/?conf=icboYEAR"
-            target="_blank">https://easychair.org/conferences/?conf=icboYEAR</a></li>
+    <li><b>For each paper/poster accepted, at least one author must
+	register and present at ICBO.</b></li>
+    <li>Submission link: tbd</a></li>
 </ul>
 
 #### Topics of Interest 
