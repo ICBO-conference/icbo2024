@@ -19,7 +19,7 @@ solutions.
 
 ### Theme of Conference 
 
-[<i> <b> "Unifying Biological Knowledge: From Molecules to Ecosystems" </b> </i>]
+<i> <b> "Unifying Biological Knowledge: From Molecules to Ecosystems" </b> </i>
 
 ### Conference Date 
 
@@ -69,7 +69,6 @@ Technology, Saudi Arabia</p>
 <h4><b>Website and Outreach Chair</b></h4>
 <p>tbd</p>
 
-
 ### Previous ICBO Conferences
 
 <ul>
@@ -108,6 +107,6 @@ href="https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf
 ### Contact Information 
 
 Please direct all further questions to <a
-href="mailto:robert.hoehndorf@kaust.edu.sa?subject=ICBO 2024">robert.hoehndorf@kaust.edu.sa</a>.
+href="mailto:robert.hoehndorf@kaust.edu.sa">robert.hoehndorf@kaust.edu.sa</a>.
 
 
