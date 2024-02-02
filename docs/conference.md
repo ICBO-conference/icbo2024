@@ -33,19 +33,17 @@ solutions.
 
 ### Local
 
-[DESCRIBELOCAL]
-
 The 15th International Conference on Biological and Biomedical
 Ontology (ICBO 2024) <b>will be held at the Univerity of Twente</b>,
-the Netherlands, and co-located with the 14th International Conference
-on Formal Ontology in Information Systems (FOIS).
+the Netherlands, and co-located with the <a
+href="https://www.utwente.nl/en/eemcs/fois2024/">14th International
+Conference on Formal Ontology in Information Systems (FOIS)</a>.
 
-<h4><b>[CITY]</b></h4>
+<h4><b>Enschede</b></h4>
 
 <ul>
-    <li>[CITY], located in the [....]</li>
-    <li>[CARACTERISTICS...]</li>
-    <li>[CARACTERISTICS...]</li>
+    <li>University of Twente</li>
+    <li>Enschede, The Netherlands</li>
 </ul>
 
 ### Organization Committee
@@ -59,16 +57,14 @@ on Formal Ontology in Information Systems (FOIS).
   <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
 
   <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
-  <p>Prof. Dr. </p>
+  <p>Karin Slater (University of Birmingham)</p>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
-  <h4><b>Coordination of Workshops, Tutorials and Software Demonstrations (ICBO 2023)</b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+  <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
+  <p>Dr Asiyah Lin ([UNIVERSITY])</p>
 
-  <h4><b>Trail coordination for the Journal of Biomedical Semantics ICBO Thematic Series Option </b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+  <h4><b>Journal Track Chair</b></h4>
+  <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
 
   <h4><b>Coordination of the Workshop on Theses and Dissertations in Ontologies (WTDO)</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
