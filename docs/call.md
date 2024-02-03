@@ -48,7 +48,7 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
     <li><i>Software demo</i> submission deadline: <b>17
     April</b> 2024. Notification: <b>15 May 2024</b>.
     </li>
-    <li><b>Submission link</b>: tbd </li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a> </li>
     <p><b>Workshops</b> can be half or full day (3 or 6 hours).</p>
 </ul>
 
