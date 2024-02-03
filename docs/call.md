@@ -129,8 +129,7 @@ We will accept research papers in these categories:
 
 ### Papers presentations guidelines 
 <ul>
-    <li>
-        <h6>ICBO is an in-person conference.</h6>
+    <li>ICBO is an <b>in-person conference</b>.</li>
     </li>
     <li>Please prepare your presentation to fit within the allocated time slot.</li>
     <li>Presentation Time:</li>
