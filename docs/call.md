@@ -38,18 +38,18 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
   </ul>
 
 
-## Workshops and Demos
+## Workshops, Tutorials, and Demos
 
-### Call for Workshops and Demos 
+### Call for Workshops, Tutorials, and Demos 
 
 <ul>
-    <li><i>Workshop</i> submission deadline 15
-    March 2024. Notification <b>15 May</b> 2024.</li>
+    <li><i>Workshop</i> submission deadline <b>15
+    March</b> 2024. Notification <b>15 May</b> 2024.</li>
     <li><i>Software demo</i> submission deadline: <b>17
     April</b> 2024. Notification: <b>15 May 2024</b>.
     </li>
     <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a> </li>
-    <p><b>Workshops</b> can be half or full day (3 or 6 hours).</p>
+    <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
 </ul>
 
 #### Software demo
@@ -57,20 +57,20 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
 <ul>
     <li>Software demonstrations are 15-30 minute long.</li>
     <li>Software demonstrations are joint with FOIS 2024; more details
-	are <a
-	href="https://www.utwente.nl/en/eemcs/fois2024/calls/demos/">here</a>.</li>
+	are <a href="https://www.utwente.nl/en/eemcs/fois2024/calls/demos/">here</a>.</li>
 </ul>
 
-#### Workshops and Tutorials
+#### Workshops and Tutorials be part of the JOWO series
 
 <p>Workshops will be part of the JOWO series and all accepted
 workshops are listed <a
-href="https://www.utwente.nl/en/eemcs/fois2024/workshops/">here</a>
-</p>.
+href="https://www.utwente.nl/en/eemcs/fois2024/workshops/">here</a>.
+</p>
 
-Tutorials will be part of ICBO and FOIS, see the <a
-href="https://www.utwente.nl/en/eemcs/fois2024/calls/tutorials/">call
+Tutorials will be part of ICBO and FOIS, see the <a href="https://www.utwente.nl/en/eemcs/fois2024/calls/tutorials/">call
 for tutorials</a>.
+
+Please reach out to asiyah.lin@axleinfo.com for enquiries regarding workshop, tutorials, and demos. 
 
 ## ICBO Conference Papers
 
@@ -81,9 +81,7 @@ We will accept research papers in these categories:
     <li>Full length papers: up to 12 pages (including references).</li>
     <li>Short papers: up to 7 pages (including references).</li>
     <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
-
-	<li><b>For each paper/poster accepted, at least one author must
-	register and present at ICBO.</b></li>
+    <li><b>For each paper/poster accepted, at least one author must register and present at ICBO.</b></li>
     <li>Submission link: coming soon</a></li>
 </ul>
 
@@ -122,7 +120,6 @@ We will accept research papers in these categories:
     <li><b>Posters session will be in-person.</b></li>
     <li>Posters should be prepared on A0 paper size, vertically (portrait) orientation, paper
         or fabric material.</li>
-
     <li>As part of the conference program, <b>each poster presenter MUST give a
                 brief flash talk of approximately 2 minutes</b> during
         the designated session.</li>
@@ -145,8 +142,7 @@ We will accept research papers in these categories:
 		minutes, with an additional 5 minutes allotted for
 		discussion.</li>
     </ul>
-    <li>Sessions will follow the conference <a
-            href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
+    <li>Sessions will follow the conference <a href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
     <li>All presentations are in-person. Exceptionally (e.g., if a
 		visa could not be obtained), we will accommodate virtual presentations.</li>
 </ul>
