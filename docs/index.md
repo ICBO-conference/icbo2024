@@ -41,6 +41,9 @@ Formal Ontology in Information Systems (FOIS).
 
 Please see the [Call for Papers](call.md) for further information.
 
+Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a>
+
+
 ### Keynote Speakers
 
 <ul>
