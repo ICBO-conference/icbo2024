@@ -53,12 +53,14 @@ loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <h4><b>General Chair</b></h4>
 <p>Robert Hoehndorf, King Abdullah University of Science and
 Technology, Saudi Arabia</p>
+<p>William (Bill) Duncan, University of Florida, USA</p>
 
 <h4><b>Program Committee Chair (ICBO 2024)</b></h4>
 <p>tbd</p>
 
 <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
-<p>Asiyah Lin</p>
+<p>Asiyah Lin, Axle Research/NCATS</p>
+<p>Matthew Lange, IC-FOODS.org</p>
 
 <h4><b>Local organization (FOIS and ICBO)</b></h4>
 <p>Tiago Prince Sales, University of Twente, The Netherlands</p>
