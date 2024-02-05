@@ -37,6 +37,31 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
     </ul>
   </ul>
 
+## ICBO Conference Proceeding Publication Requirements
+
+All conference submissions accepted will be published in the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings</a> as part of the new <a href="http://ceur-ws.org/iaoa.html" target="_blank">IAOA series</a>. 
+An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3603/" target="_blank">here</a>.
+
+In order for this to happen, the following requirements must be satisfied:
+
+<ol type="1">            
+    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="../papers/CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
+    <li>The template in OverLeaf (LaTEx) version, is <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank"> here</a>. 
+    <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.</li>
+    <li>Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2024 with the conference name, date, and place. You only need to fill in the EMAIL and ORCID information for each author.</li>
+    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2024 customized form bellow:
+        <ol type="a"> 
+        <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.</li>
+        <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!</li>
+        </ol>
+        <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print it out, sign it in ink (by hand), then scan or photograph the form and <u>both upload it on</u> <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website</a> <u>and send it to:</u>  <a href="mailto:robert.hoehndorf@kaust.edu.sa?subject=Author Agreement for submission PAPER ">robert.hoehndorf@kaust.edu.sa </a>
+        </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".</li>
+        <ul><li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown here: <a href="http://ceur-ws.org/agreement-paper1.jpg"
+            target="_blank">http://ceur-ws.org/agreement-paper1.jpg</a>
+        </li></ul>
+    <li>Update your camera-ready paper on <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website </a>.</li>
+</ol>
+
 
 ## Workshops, Tutorials, and Demos
 
