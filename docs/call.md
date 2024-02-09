@@ -107,7 +107,7 @@ We will accept research papers in these categories:
     <li>Short papers: up to 7 pages (including references).</li>
     <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
     <li><b>For each paper/poster accepted, at least one author must register and present at ICBO.</b></li>
-    <li>Submission link: coming soon</a></li>
+    <li>Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a> </li>
 </ul>
 
 #### Topics of Interest 
