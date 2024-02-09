@@ -27,7 +27,6 @@ Workshops/tutorials: July 17, 2024
 Main conference: July 18 - July 19, 2024
 
 Submission Dates:
-- workshops submissions: 15 March 2024. Notification 29 March 2024.
 - software demo submission (shared with FOIS): 17 April 2024. Notification: 15 May 2024.
 - ICBO conference papers submission: 26 March 2024. Notification 15 May 2024.
 - Journal Track submission deadline: continuous
