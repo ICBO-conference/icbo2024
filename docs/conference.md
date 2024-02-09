@@ -51,12 +51,12 @@ loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p>These are the people involved in organization of ICBO 2024:</p>
 
 <h4><b>General Chair</b></h4>
+<p>William (Bill) Duncan, University of Florida, USA</p>
 <p>Robert Hoehndorf, King Abdullah University of Science and
 Technology, Saudi Arabia</p>
-<p>William (Bill) Duncan, University of Florida, USA</p>
 
-<h4><b>Program Committee Chair (ICBO 2024)</b></h4>
-<p>tbd</p>
+<h4><b>Program Committee Chair</b></h4>
+<p>Karin Slater, University of Birmingham, UK</p>
 
 <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
 <p>Asiyah Lin, Axle Research/NCATS</p>
