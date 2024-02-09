@@ -54,7 +54,15 @@ In order for this to happen, the following requirements must be satisfied:
         <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.</li>
         <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!</li>
         </ol>
-        <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print it out, sign it in ink (by hand), then scan or photograph the form and <u>both upload it on</u> <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website</a> <u>and send it to:</u>  <a href="mailto:robert.hoehndorf@kaust.edu.sa?subject=Author Agreement for submission PAPER ">robert.hoehndorf@kaust.edu.sa </a>
+        <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print
+    it out, sign it in ink (by hand), then scan or photograph the form
+    and <u>both upload it on</u> <a
+    href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F"
+    target="_blank">official administrative website</a> <u>and send it
+    to:</u>  <a
+    href="mailto:icbo-2024@googlegroups.com?subject=Author
+    Agreement for submission PAPER ">icbo-2024@googlegroups.com
+    </a>
         </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".</li>
         <ul><li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown here: <a href="http://ceur-ws.org/agreement-paper1.jpg"
             target="_blank">http://ceur-ws.org/agreement-paper1.jpg</a>
