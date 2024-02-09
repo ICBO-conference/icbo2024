@@ -154,8 +154,9 @@ We will accept research papers in these categories:
 
 ### Papers presentations guidelines 
 <ul>
-    <li>ICBO is an <b>in-person conference</b>.</li>
+<!---    <li>ICBO is an <b>in-person conference</b>.</li>
     </li>
+	-->
     <li>Please prepare your presentation to fit within the allocated time slot.</li>
     <li>Presentation Time:</li>
     <ul>
@@ -166,9 +167,10 @@ We will accept research papers in these categories:
 		minutes, with an additional 5 minutes allotted for
 		discussion.</li>
     </ul>
-    <li>Sessions will follow the conference <a href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
-    <li>All presentations are in-person. Exceptionally (e.g., if a
+    <li>Sessions will follow the conference agenda in sequence.</li>
+<!---    <li>All presentations are in-person. Exceptionally (e.g., if a
 		visa could not be obtained), we will accommodate virtual presentations.</li>
+-->
 </ul>
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
