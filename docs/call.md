@@ -197,6 +197,6 @@ Journal Track submission deadline: continuously
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:robert.hoehndorf@kaust.edu.sa">robert.hoehndorf@kaust.edu.sa</a>.
+Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>.
 
 

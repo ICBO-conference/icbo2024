@@ -109,6 +109,6 @@ href="https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf
 ### Contact Information 
 
 Please direct all further questions to <a
-href="mailto:robert.hoehndorf@kaust.edu.sa">robert.hoehndorf@kaust.edu.sa</a>.
+href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>.
 
 
