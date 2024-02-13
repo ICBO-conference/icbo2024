@@ -63,6 +63,5 @@ loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Contact Information 
 
-Please direct all further questions to <a
-href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>.
+Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>
 

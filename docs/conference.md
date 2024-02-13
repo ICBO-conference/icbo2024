@@ -75,7 +75,7 @@ Technology, Saudi Arabia</p>
 
 <ul>
 <li>2023: Brasilia, DF, Brazil 
-<a href="https://www.icbo2023.ncor-brasil.org/index.html">www.icbo2023.ncor-brasil.org</a>
+<a href="https://www.icbo2023.ncor-brasil.org/index.html">www.icbo2023.ncor-brasil.org</a> (<a href="https://ceur-ws.org/Vol-3603/" target="_blank"> proceedings </a>)
 </li>
 <li>2022: Ann Arbor, MI, USA <a
 href="https://icbo-conference.github.io/icbo2022/">icbo-conference.github.io/icbo2022</a></li>
@@ -108,7 +108,6 @@ href="https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf
 
 ### Contact Information 
 
-Please direct all further questions to <a
-href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>.
+Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>.
 
 
