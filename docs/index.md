@@ -47,7 +47,8 @@ Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https:/
 ### Keynote Speakers
 
 <ul>
-    <li>(Prof Barend Mons)[https://www.universiteitleiden.nl/en/staffmembers/barend-mons]</li>
+    <li><a
+    href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons">Prof Barend Mons</a>, Leiden University Medical Center</li>
     <li>to be decided</li>
 </ul>
 
