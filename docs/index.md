@@ -49,7 +49,7 @@ Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https:/
 <ul>
     <li><a
     href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons">Prof Barend Mons</a>, Leiden University Medical Center</li>
-    <li>to be decided</li>
+    <li>more to be added</li>
 </ul>
 
 
