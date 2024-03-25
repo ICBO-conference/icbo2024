@@ -47,7 +47,7 @@ Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https:/
 ### Keynote Speakers
 
 <ul>
-    <li>[Prof Barend Mons](https://www.universiteitleiden.nl/en/staffmembers/barend-mons#tab-1)</li>
+    <li>(Prof Barend Mons)[https://www.universiteitleiden.nl/en/staffmembers/barend-mons]</li>
     <li>to be decided</li>
 </ul>
 
