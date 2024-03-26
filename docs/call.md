@@ -108,8 +108,8 @@ Please reach out to asiyah.lin@axleinfo.com for enquiries regarding workshop, tu
 ## ICBO Conference Papers
 
 <ul>
-    <li>Submission deadline: <span style="text-decoration: line-through; color: red;">26 March</span> 12 April 2024. Notification: <span style="text-decoration: line-through; ; color: red;">15</span> 22 May, 2024</li>
-    <li>Abstract submission deadline: 17 April 2024. Notification: 22 May, 2024</li>
+    <li>Submission deadline: <span style="text-decoration: line-through; color: red;">26 March</span> <b>12 April 2024</b>. Notification: <span style="text-decoration: line-through; ; color: red;">15</span> <b>22 May 2024</b></li>
+    <li>Abstract submission deadline: <b>17 April 2024</b>. Notification: <b>22 May 2024</b></li>
 </ul>
 We will accept research papers in these categories:
 <ul>
