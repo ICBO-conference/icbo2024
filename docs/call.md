@@ -30,7 +30,8 @@ Conference on Formal Ontology in Information Systems (FOIS)</a>.
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li> <b>ICBO Conference Papers deadline:</b> 26 March 2024. Notification 15 May 2024</li>
+        <li><b>ICBO Conference Papers deadline:</b> <span style="text-decoration: line-through; color: red;">26 March</span> 12 April 2024. Notification <span style="text-decoration: line-through; ; color: red;">15</span> 22 May 2024</li>
+        <li><b>Abstract submission deadline:</b> 17 April 2024. Notification: 22 May 2024</li>
         <li>Workshops proposal deadline: <b>on invitation only</b></li> 
         <li>Software demo submission deadline: 17 April 2024. Notification: 15 May 2024</li>
         <li>Journal Track submission deadline: open year-round</li>
