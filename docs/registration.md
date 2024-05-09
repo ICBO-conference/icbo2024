@@ -5,7 +5,7 @@
 
 On this page, you can find all relevant information regarding the registration to FOIS 2024. This unique registration grants access to FOIS 2024, <strong>ICBO 2024</strong>, and JOWO 2024.
 
-The registration platform is currently <strong>closed</strong>. The link will be provided in the following days.
+Click on the url <a href="https://www.utwente.nl/en/eemcs/fois2024/registration/" target="_blank"> https://www.utwente.nl/en/eemcs/fois2024/registration/ </a>for registration.
 
 ## Registration Types
 
@@ -131,7 +131,7 @@ The registration platform is currently <strong>closed</strong>. The link will be
   </tbody>
 </table>
 
-<!-- <button type="button" class="btn btn-success btn-primary btn-lg">Register Now for ICBO [202X]</button>	 -->
+<button type="button" class="btn btn-success btn-primary btn-lg" onclick="window.location.href='https://www.utwente.nl/en/eemcs/fois2024/registration/'; ">Register for ICBO 2024</button>
 
 ## Important 
 <ul>
