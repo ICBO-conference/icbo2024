@@ -1,121 +1,203 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2024 <small>conference</small></h1>
 
-## Conference [202X] Registration 
+## Conference 2024 Registration 
 
-[We are currently considering the possibility of offering these meal plans on-site, and further details including costs will be provided at the event location.]
+On this page, you can find all relevant information regarding the registration to FOIS 2024. This unique registration grants access to FOIS 2024, <strong>ICBO 2024</strong>, and JOWO 2024.
 
-### Registration fee information for ICBO 2023 
+The registration platform is currently <strong>closed</strong>. The link will be provided in the following days.
 
-[DETAILS]
+## Registration Types
 
-<button type="button" class="btn btn-success btn-primary btn-lg">Register Now for ICBO [202X]</button>	
+<table>
+  <colgroup>
+    <col style="width: 140px;">
+    <col style="width: 208px;">
+    <col style="width: 204px;">
+    <col style="width: 237px;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <p>Fees</p>
+      </td>
+      <th scope="col">
+        <p>Early (until 03 June)</p>
+      </th>
+      <th scope="col">
+        <p>Late&nbsp;(after 03 June)</p>
+      </th>
+      <th scope="col">
+        <p>Perks</p>
+      </th>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Online presenter</p>
+      </th>
+      <td>
+        <p>EUR 300,00</p>
+      </td>
+      <td>
+        <p>-</p>
+      </td>
+      <td>
+        <p>-</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Day pass</p>
+      </th>
+      <td>
+        <p>EUR 200,00</p>
+      </td>
+      <td>
+        <p>EUR 200,00</p>
+      </td>
+      <td>
+        <p>Access to all sessions (FOIS, ICBO, and JOWO), coffee breaks, and lunch on the selected days
+        </p>
+        <p>Access to conference reception (Monday)</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Student registration</p>
+      </th>
+      <td>
+        <p>EUR 330,00</p>
+      </td>
+      <td>
+        <p>EUR 380,00</p>
+      </td>
+      <td>
+        <p>Access&nbsp;to all sessions (FOIS, ICBO, and JOWO), coffee breaks, and lunch during the whole
+          week</p>
+        <p>Access to all social events</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Full registration</p>
+      </th>
+      <td>
+        <p>EUR 650,00</p>
+      </td>
+      <td>
+        <p>EUR 750,00</p>
+      </td>
+      <td>
+        <p>Access&nbsp;to all sessions (FOIS, ICBO, and JOWO), coffee breaks, and lunch during the whole
+          week</p>
+        <p>Access to&nbsp;all social events</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div class="alert alert-primary" role="alert">
-The number of seats for workshops and tutorials is limited due to the capacity of the physical and virtual rooms. In order to better accommodate participants, please complete this <a href="https://docs.google.com/forms/ZZZ"> FORM</a> to indicate your workshop/tutorial preferences.
-</div>
+<br>
 
-<b>* Student fee (discount coupon):</b> To request a student fee discount, please submit a request to 
-    <a href="mailto:[MAIL]?subject=[ICBO202X]Student discount coupon" target="_blank">icbo202X{at}[DOMAIN].com</a> <b>by [MONTH] [DAYNUMBER]th</b>, attaching some document that proves your student's relationship with the educational institution. You should ask for that only if you are registered in a degree program (undergraduate or graduate) at an accredited educational institution at the time of your submission.
+<table>
+  <colgroup>
+    <col style="width: 197px;">
+    <col style="width: 111px;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <p>Other fees</p>
+      </td>
+      <th scope="col">
+        <p>Price/ticket</p>
+      </th>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Food market extra ticket</p>
+      </th>
+      <td>
+        <p>EUR 55,00</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <p>Conference dinner&nbsp;extra ticket</p>
+      </th>
+      <td>
+        <p>EUR 75,00</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<b>** Different prices for developing countries: </b><i>Less developed countries</i> are defined here as countries with a human development index of &lt;0.8 (see 
-    <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index">
-    List of countries by Human Development Index</a>).
+<!-- <button type="button" class="btn btn-success btn-primary btn-lg">Register Now for ICBO [202X]</button>	 -->
 
-The in-person registration fee covers:
+## Important 
 <ul>
-    <li>Coffee-break and refreshments every day (From [MONTH] [DAYNUMBER]th to [MONTH] [DAYNUMBER]st).</li>                    
-    <li>Lunch every day (From [MONTH] [DAYNUMBER]th to [MONTH] [DAYNUMBER]st).</li>
-    <li>One group dinner (TBD).</li>
-    <li>Access to the poster session and welcome reception (non alcoholic drinks) on [MONTH] [DAYNUMBER]rd  during posters and software demo session.</li>     
+<li>There is a limited number of available registrations</li>
+<li>Registrations will be closed by 02 July</li>
+<li>Complementary water bottles will be given to the first 120 registrations</li>
+<li>Upon registration, participants will receive discount codes for selected hotels (subject to hotel room availability)</li>
 </ul>
 
-### Virtual Attendance fees
+## Social Events
+<ul>
+<li>Monday - conference reception</li>
+<li>Tuesday - visit to Grolsch brewery*</li>
+<li>Wednesday - food market</li>
+<li>Thursday - conference dinner</li>
+</ul>
+*Participation in the brewery visit is limited to the venue capacity (first 100 registrations)
 
-ICBO [202X] virtual attendance is charged due to costs to provide the infrastructure necessary for this kind of participation. If you plan to attend virtually, you are required to fill out this registration form in order to receive the meeting Zoom link.
+## Author Information
+<ul>
+<li>Every accepted publication must be exclusively attached to a full registration (all tracks but the Early Career Symposium)</li>
+<li>Students authoring papers only on the ECS may register with a student registration</li>
+<li>Students authoring papers on the ECS and some other tracks do not need additional registrations for their ECS papers as their full registrations will be counted as sufficient</li>
+</ul>
+
+## Cancellation Policy
+<ul>
+<li>Cancellations made by 14 June 2024 will receive a full refund minus a EUR 50,00 administrative fee</li>
+<li>No refunds will be granted after 14 June 2024</li>
+<li>No-shows will not be eligible for refunds</li>
+</ul>
+
+## Volunteers
+
+We invite interested attendees to join us in the local organization during the days of the conference. Volunteers will be selected from a pool of interested candidates by 18 May, and they are expected to support the local organization during a determined number of in-person sessions to be defined. <strong>Selected volunteers will be granted a discount on their registrations of EUR 330,00.</strong>
+
+If you wish to participate as a volunteer at FOIS 2024, please answer the form available <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=oUYycvXDxUOs3EOttASsTfuwvWsl-HFFh_e1cUkutrpURU8wOTFSM0Y5OEdGRlczVU1LVjdRRFdHVS4u">on this link</a>.
 
 ## Consent to Use Photographic Images
 
-Registration and participation in ICBO [202X] meetings and activities constitutes an agreement by the registrant to ICBO's use and distribution of the registrant or attendee's images or voice in photographs, videotapes, electronic reproductions, and audio record of such events and activities.
+Registration and participation in ICBO 2024 meetings and activities constitutes an agreement by the registrant to ICBO's use and distribution of the registrant or attendee's images or voice in photographs, videotapes, electronic reproductions, and audio record of such events and activities.
 
-## COVID Statement and Duty of Care
+# Traveling to Enschede
 
-<p>The International Conference on Biomedical Ontology (ICBO) [202X] is committed to providing a safe and
-    healthy environment for all participants. We are working with the University of [PLACE] on
-    implementing preventive measures to reduce the potential spread of the COVID-19 virus. Our preventive
-    measures and policies are guided by the requirements and recommendations of the [COUNTRY] <a
-    href="https://[URL]" target="_blank">Ministry of Health</a>, <a href="https://[URL]" target="_blank">National Health Surveillance Agency</a> - and others federal, state and local health authorities, as well as the health and safety requirements for <a href="http://[LINK]"target="_blank">[PLACE] events</a>. These requirements change frequently; up-to-date requirements will be communicated to registered ICBO [202X] attendees shortly before the meeting. Based on past experience, these U-M, local, state and federal requirements may include policies regarding vaccination, negative COVID-19 tests, social distancing and/or masking.</p>
+## Arriving By Air
 
-<p>Note that international travelers should additionally monitor the <a href="[URL]" target="_blank">Ministry of Foreign Affairs requirements</a> regarding entry into the [COUNTRY] and also by <a href="[URL]" target="_blank">[ORGANIZATION] Rules</a>.</p>
+We recommend to fly to Schiphol Airport that has direct flights from most of the cities with <a href="https://www.klm.nl/en">KLM</a> or <a href="https://www.transavia.com/">Transavia</a>. From Schiphol airport there are trains towards Enschede Central Station every 30 min, they alternate between direct and semi-direct (you need to change in the same platform in Amersfoort Central). It takes around 2 hours to reach Enschede.
 
-<p>The responsibility for a safe and healthy event environment is shared by every participant. All ICBO [202X]
-    Meeting participants are expected to adhere to and abide by health and safety precautions implemented
-    for the meeting as well as other government and facility regulations. As part of your Duty of Care
-    responsibilities, you should not attend the ICBO [202X] Meeting if you: </p>
-<ul>
-    <li>Are unwilling or unable to follow all, local, state, and federal health requirements as well as the requirements of <a href="http://[URL]" target="_blank">[PLACE]</a>.</li>
-    <li>Are experiencing, or have recently experienced <a href="https://[URL]" target="_blank">symptoms of COVID-19</a>, and have not yet ended isolation, as required by <a href="https://[LINK]" target="_blank">Ministry of Health guidance</a>.</li>
-    <li>Believe that you may have been exposed to a confirmed or suspected case of COVID-19, and have not
-        yet ended quarantine as required by CDC guidance.</li>
-    <li>Have been diagnosed with COVID-19 and have not yet ended isolation as required by <a href="https://[LINK]" target="_blank">Ministry of Health guidance</a>, or are not yet cleared as non-contagious by the health care team responsible for your treatment.</li>
-    <li>During the conference, in case of COVID suspicious, wear a high-quality mask with the best fit,
-        protection, and comfort when around other people.</li>
-</ul>
-<p>Please note that by checking the ICBO [202X] Policies box during the registration process, you agree to
-    adhere to the precautions and policies contained herein and acknowledge and understand that you are
-    knowingly and freely assuming all risks related to illness and infectious diseases, such as COVID-19, by
-    attending this event. You understand that refusal to adhere to these policies and abide by these
-    precautions may result in immediate removal from the event and cancellation of the registration, without
-    receiving a refund.</p>
+You can also fly to Eindhoven airport but the connection to Enschede takes longer. You would need to pick the bus to reach Eindhoven Central Station and from there pick the train to Utrecht Central and change trains to Enschede Central or Utrecht- Amersfoort-Enschede: they alternate every half an hour. This trip takes around 3h.
 
-<p>All policies, including those contained herein, are subject to change.</p>
+## Train Tickets 
 
-# Travel
+To buy the train ticket, you can do it at the train station from the airport or by the <a href="https://www.ns.nl/en/travel-information/ns-app">NS app</a>. The ticket will be valid during the day of the travel. In case you buy the physical ticket on the machine you would need to check in with the yellow sticks (see picture), this will validate your ticket.
 
-## Official Travel Agency 
+There is also the possibility to pay directly with your debit/credit card. You check in at the station of origin and check out at Enschede Station (using the yellow barriers). 
 
-[AGENCY] is the official agency of the event, they are working to present some suggestions for accommodation and transfer (AirPort > Hotel > AirPort) service.
+In the Netherlands the trains have 2nd class and 1st class, the normal ticket covers 2nd class, take a look at the number on the wall of the carriage to see which class you are travelling.
 
-#### Contact
-<ul>
-    <li>Phone: +55 ([CODE]) [PHONENUMBER]</li>
-    <li>Whatsapp – [NAME]: +55 ([CODE]) [PHONENUMBER]</li>
-</ul>
+We recommend you check on the day of travel if the trip is possible (sometimes there are disruptions), for that the best is to use the <a href="https://www.ns.nl/en/travel-information/ns-app">NS app</a> or the <a href="https://www.ns.nl/en">NS webpage</a>.
 
-### Accommodations
+## Bus Tickets
 
-[DETAIS]
-
-[OPTIONS]
-
-## Customs and Immigration
-
-[DETAIS]
-
-### Letter of invitation
-
-To request a letter of invitation for ICBO [202X], not at least prior to registration, please email us at icbo202X{at}[DOMAIN] and include your full postal work address, full name, passaport details (number, issue date and expiration date), and attach your registration.
-
-Following receipt of your request, please allow 4 business days for a response.
-
-## Travel to [LOCATION]
-
-[DETAILS]
-
-### Airport
-
-[DETAILS]
-
-#### Airlines
-
-[DETAILS]
-
-### Local Attractions
-
-[DETAILS]
+On the bus you can pay with your credit/debit card and check out when you leave the bus. The travel will be charged depending on the distance.
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>
 
 
