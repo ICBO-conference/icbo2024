@@ -48,9 +48,14 @@ Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https:/
 ### Keynote Speakers
 
 <ul>
-    <li><a
-    href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons">Prof Barend Mons</a>, Leiden University Medical Center</li>
-    <li>more to be added</li>
+    <li> <a href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons" target="_blank">Prof Barend Mons</a>, Leiden University Medical Center</li>
+    <li> <a href="https://www.maastrichtuniversity.nl/mj-dumontier" target="_blank">Prof Michel Dumontier</a>, Maastricht University</li>
+    <li>Share with FOIS:</li>
+    <ul>
+      <li> <a href="https://people.utwente.nl/m.boon"target="_blank">Prof Mieke Boon</a>, University of Twente</li>
+      <li> <a href="https://www.cs.vu.nl/~frankh/" target="_blank">Prof Frank van Harmelen</a>, Vrije Universiteit Amsterdam</li>
+      <li> <a href="https://www.oysteinlinnebo.org/"target="_blank">Prof Øystein Linnebo</a>, University of Oslo </li>
+    </ul>
 </ul>
 
 
