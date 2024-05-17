@@ -69,7 +69,8 @@ Technology, Saudi Arabia</p>
 <p>Robert Hoehndorf (King Abdullah University of Science and Technology)</p>
 
 <h4><b>Website and Outreach Chair</b></h4>
-<p>tbd</p>
+<p>Eduardo Felipe, University of Itajubá - Unifei, Brazil</p>
+<p>William (Bill) Duncan, University of Florida, USA</p>
 
 ### Previous ICBO Conferences
 
