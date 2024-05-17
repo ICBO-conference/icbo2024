@@ -50,7 +50,7 @@ Submission link: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https:/
 <ul>
     <li> <a href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons" target="_blank">Prof Barend Mons</a>, Leiden University Medical Center</li>
     <li> <a href="https://www.maastrichtuniversity.nl/mj-dumontier" target="_blank">Prof Michel Dumontier</a>, Maastricht University</li>
-    <li>Share with FOIS:</li>
+    <li>Keynotes from <a href="https://www.utwente.nl/en/eemcs/fois2024/keynotes/" target="_blank">FOIS</a> share with ICBO:</li>
     <ul>
       <li> <a href="https://people.utwente.nl/m.boon"target="_blank">Prof Mieke Boon</a>, University of Twente</li>
       <li> <a href="https://www.cs.vu.nl/~frankh/" target="_blank">Prof Frank van Harmelen</a>, Vrije Universiteit Amsterdam</li>

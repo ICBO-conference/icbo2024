@@ -14,6 +14,7 @@ theme:
 nav:
   - Home: index.md
   - Conference: conference.md
+  - Keynotes: keynotes.md
   # - Program: program.md
   - Call for Submissions: call.md
   - Registration: registration.md

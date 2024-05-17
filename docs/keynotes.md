@@ -1,28 +1,33 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2024 <small>conference</small></h1>
 
-## [NUMBER]th International Conference on Biomedical Ontology 
+# 15th International Conference on Biomedical Ontology 
 
-## Keynotes
+## Keynotes ICBO
 
-### [NAME]
+### <a href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons" target="_blank">Prof Barend Mons</a>
 
-[BIO]
+The rapid developments in the field of machine learning have also brought along some existential challenges, which are in essence all related to the broad concept of ‘trust’. Aspects of this broad concept include trust in the output of any ML proces (and the prevention of black boxes, hallucinations and so forth). The very trust in science is at stake, especially now that paper mills come up that also aggravate the perverse reward systems in current research environments, which are stuck in 20th (in fact 17th) century scholarly communication. The other side of the same coin is that ML, if nor properly controlled will also break through security and privacy barriers and violate GDPR and other Ethical, Legal and Societal barriers, including equitability. In addition, the ‘existence’ of data somewhere by no means implies its actual Reusability. This includes the by now well established four elements of the FAIR principles: Much data is not even Findable, if found, not Accessible under well defined conditions, and if accessed not Interoperable (understandable by third parties and machines) and this results in the vast majority of data and information not being Reusable without violation of copyrights, privacy regulations or the basic conceptual models that implicitly or explicitly underpin the query or the deep learning algorithm. This keynote will address how ‘data visiting’ as opposed to classical ‘data sharing’, which carries the connotation of data downloads, transport and loosing control, mitigates most, if not all, the unwanted side effects of classical ‘data sharing’. For federated data visiting, the data should be FAIR in an additional sense or perspective, they should be ‘Federated, AI-Ready’, so that visiting algorithms can answer questions related to Access Control, Consent, Format, and can read rich (FAIR) metadata about the data itself to determine whether they are ‘fit for purpose’ and machine actionable (i.e. FAIR digital Objects, or Machine Actionable Units). The ‘fitness for purpose’ concept goes way beyond (but includes) information about methods, quality, error bars etc. The ‘immutable logging’ of all operation of visiting algorithms is crucial, especially when self learning algorithms in ‘swarm learning’ are being used. Enough to keep us busy for a while.
 
-### [NAME]
+### <a href="https://www.maastrichtuniversity.nl/mj-dumontier" target="_blank">Prof Michel Dumontier</a>
 
-[BIO]
+Recent advances in artificial intelligence offer tantalising possibilities to propel translational research and improve patient outcomes. Central to this transformation is the question of whether our knowledge infrastructure, namely the quality of our health data, the adequacy of health data standards, and the extensibility of our biomedical ontologies, is both necessary and sufficient to deliver anticipated benefits. This keynote presentation will address the critical role of biomedical ontologies in health AI, assessing their readiness in this rapidly evolving field, and exploring novel developments afield, namely neurosymbolic reasoning systems. I will delve into the specific requirements that biomedical ontologies must meet to be considered AI-ready, including the quality of conceptual detail, the breadth of (bio)medical scope, and their adaptability to new and emerging knowledge. I will also explore the potential consequences of deploying AI without the foundational support of ontology-backed knowledge graphs, such as risks of misinterpretation of medical data and challenges in achieving interoperable health systems. Viewed through the lens of US and European initiatives that our research group is spearheading, I will discuss collaborative efforts between clinical experts, data scientists, and AI developers to refine and expand knowledge frameworks, ensuring they are not just ready but also central to the future of healthcare.
 
-### [NAME]
+## Keynotes <a href="https://www.utwente.nl/en/eemcs/fois2024/keynotes/" target="_blank">FOIS</a> (Share with ICBO)
 
-[BIO]
+### <a href="https://people.utwente.nl/m.boon"target="_blank">Prof Mieke Boon</a>
 
-### [NAME]
+This keynote address at FOIS 2024 delves into the epistemological aspects of AI explainability. Drawing on the perspective of Logical Empiricism, the talk examines Carl Hempel's covering law theory of scientific explanation, which posits that laws derived from inductive reasoning explain specific events. However, this account faces challenges, such as distinguishing between accidental regularities and genuine laws, leading to the exploration of explainability in machine learning (ML). While ML models provide accurate predictions, their opacity prompts the need for explanations behind these predictions. Explainable ML (XML) aims to extract reasons for predictions but may struggle to provide genuine explanations akin to shortcomings in Hempel's theory. Instead, the talk advocates for a mechanistic view of explanation, suggesting that ML explainability should be sought outside the ML models, within a conceptual model (CM) of the real-world phenomenon. The CM guides the construction of ML models, ensuring relevance of variables and facilitating explanations of outcomes. Consequently, ML models serve as instruments for quantitative analysis, while the CM serves as the explanatory framework, grounding explanations in the understanding of the target phenomenon. This approach shifts the focus from the inner workings of ML models to the broader conceptual understanding of the phenomena they seek to explain, providing a more robust foundation for AI explainability.
 
-[BIO]
+### <a href="https://www.cs.vu.nl/~frankh/" target="_blank">Prof Frank van Harmelen</a>
+
+After the breakthroughs of machine learning (deep learning or otherwise) in the past decade, the shortcomings of machine learning are also becoming increasingly clear: unexplainable results, data hunger and limited generalisability are all becoming bottle necks. As a result, the combination of data-driven techniques from machine learning with symbolic techniques from knowledge representation is now recognised as one of the grand challenges of modern AI. Surprisingly, the role of ontologies has been largely neglected in many of the neuro-symbolic systems that have been published. Fortunately, this is has been changing recently, and I will give an overview of a number of proposals from the literature for neuro-symbolic systems where ontologies play a key role.
+
+### <a href="https://www.oysteinlinnebo.org/"target="_blank">Prof Øystein Linnebo</a>
+
+Gödel and others have suggested that a set can be regarded as constructed from its elements. Given any objects, we can apply the “set of” operation to construct the set of these objects. Inspired by Gödel’s suggestion, this talk presents a far more general constructional approach to ontology. First, I clarify what it is for some objects to be “constructed” from others. The key is that all truths about the “new” objects that are constructed must reduce to truths about the “old” objects on which the construction is based. Then, I explain the central role of criteria of identity in the constructional approach. When constructing “new” objects, it is particularly important to stipulate what it takes for them to be identical or distinct. A variety of examples are provided, including mereological sums, ordered pairs, as well as cardinal and ordinal numbers. Finally, I present a logical framework in which this constructional approach can be developed. In this framework, a large and natural family of forms of construction can be proved to be consistent. 
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
-
+Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>
 
