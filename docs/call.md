@@ -262,12 +262,68 @@ Journal Track submission deadline: continuously
    <li>Finn Wilson (University at Buffalo)</li>
    <li>William Hogan (Medical College of Wisconsin)</li>
    <li>Yongqun He (University of Michigan)</li></ul>
-
-
 </ul>
 
 #### Posters
 
+<ul>
+
+  <li><strong>OLS4: New Features for Exploring Ontologies</strong></li>
+   <ul><li>Haider Iqbal (EMBL-EBI)</li>
+   <li>James McLaughlin (EMBL-EBI)</li>
+   <li>Helen Parkinson (EMBL-EBI)</li>
+   <li>Henriette Harmse (EMBL-EBI)*</li></ul>
+
+<li><strong>Bridging the Gap: Integrating Public Bio-Ontologies into Enterprise Data Management Strategies</strong></li>
+   <ul><li>Shawn Z K Tan (Novo Nordisk)*</li>
+   <li>Joshua Valdez (Novo Nordisk)</li>
+   <li>Saritha Kuriakose (Novo Nordisk)</li></ul>
+
+<li><strong>Standardising biological trait representation with the Ontology of Biological Attributes (OBA)</strong></li>
+   <ul><li>Arwa Ibrahim Ahmed Ibrahim (EMBL-EBI)*</li></ul>
+
+<li><strong>Phenotypic Inference Evaluation Framework for variant and gene prioritisation algorithms</strong></li>
+   <ul><li>Vinicius de Souza (EBI)*</li>
+   <li>Yasemin Bridges (Queen Mary University of London)</li>
+   <li>Jules Jacobsen (Queen Mary University of London)</li>
+   <li>Damian Smedley (Queen Mary University of London)</li>
+   <li>Nicolas Matentzoglu (Semanticly)</li>
+   <li>James McLaughlin (EMBL-EBI)</li></ul>
+
+<li><strong>Representing Bionic-vision Devices in the Neural Electronic Interface Ontology</strong></li>
+   <ul><li>Jisoo Seo (University at Buffalo)*</li>
+   <li>Alexander D Diehl (University at Buffalo)</li>
+   <li>Daniel Rathbun (Detroit Institute of Ophthalmology)</li>
+   <li>Gopikrishnan M. Chandrasekharan (University of Florida)</li>
+   <li>Callie McGrath (Independent Researcher)</li>
+   <li>Bill Duncan (University of Florida)</li></ul>
+
+<li><strong>Initial Steps in Developing an Ontology of Dental Care-Related Fear, Anxiety, and Phobia</strong></li>
+   <ul><li>Bill Duncan (University of Florida)*</li>
+   <li>Astha Singhal (University of Florida)</li>
+   <li>Olga S. Ensz (University of Florida)</li>
+   <li>Alexander D Diehl (University at Buffalo)</li>
+   <li>Brenda Heaton (University of Utah School of Dentistry)</li></ul>
+
+<li><strong>An ontological representation of oral dysbiosis</strong></li>
+   <ul><li>Gopikrishnan M. Chandrasekharan (University of Florida)*</li>
+   <li>Alexander D Diehl (University at Buffalo)</li>
+   <li>Nivedita Dutta (Self-Employed Clinician and Clinical Researcher)</li>
+   <li>Bill Duncan (University of Florida)</li></ul>
+
+<li><strong>Classification of genetic developmental disorders in the peer-reviewed literature using biomedical ontologies</strong></li>
+   <ul><li>Michael Yates (University of Edinburgh)*</li>
+   <li>Ian Simpson (University of Edinburgh)</li></ul>
+
+<li><strong>Building an Ontology of Pain</strong></li>
+   <ul><li>Finn Wilson (University at Buffalo)*</li>
+   <li>Gopikrishnan M. Chandrasekharan (University of Florida)</li>
+   <li>Matthew Diller (University of Florida)</li>
+   <li>Jisoo Seo (University at Buffalo)</li>
+   <li>Alexander D Diehl (University at Buffalo)</li>
+   <li>Bill Duncan (University of Florida)</li></ul>
+
+</ul>
 
 ### Contact Information 
 
