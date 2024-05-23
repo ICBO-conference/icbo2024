@@ -201,10 +201,72 @@ Journal Track submission deadline: continuously
 	the submission process.</li>
 </ul>
 
-## Program Committee ICBO 2024
+## Accepted papers
+
+#### Papers
 
 <ul>
+  <li><strong>Empowering Standardization of Cancer Vaccines through Ontology: Enhanced modeling and data analysis</strong> - for <a href="https://jbiomedsci.biomedcentral.com" target="_blank">JBMS Direct-to-Journal Track</a> </li>
+  <ul><li>Jie Zhen et al.</li></ul>
+
+  <li><strong>(Re-)bridging the anatomy ontologies with SSSOM</strong></li>
+  <ul><li> Damien Goutte-Gattat (University of Cambridge)*</li>
+      <li> Nicolas Matentzoglu (Semanticly) </li> </ul>
+
+  <li><strong>Are Continuant Fiat Boundaries Independent Continuants?</strong></li>
+  <ul><li>Michael Rabenberg (University at Buffalo)* </li>
+      <li>Werner Ceusters (University at Buffalo) </li> </ul>
+  
+  <li><strong>Modeling Biomedical Burdens in Basic Formal Ontology</strong></li>
+   <ul><li>Paul R Smart (University of Southampton)*</li>
+        <li>Nic Fair (University of Southampton)</li>
+        <li>Michael Boniface (University of Southampton) </li></ul>
+  
+  <li><strong>Semantic Representation of Preclinical Data in Radiation Oncology</strong></li>
+   <ul><li>Olga Giraldo (DKFZ)* </li></ul>
+  
+  <li><strong>Expanding the Ontology of Organizational Structures of Trauma Centers and Trauma Systems</strong></li>
+
+   <ul><li>Mathias Brochhausen (UAMS)*</li>
+   <li>Diya Mehta (Harvey Mudd College)</li>
+   <li>Justin Whorton (UAMS)</li>
+   <li>Reza Shahriari (University of Florida)</li>
+   <li>Eric D Ragan (University of Florida)</li>
+   <li>Jonathan Bona (UAMS)</li>
+   <li>William Hogan (Medical College of Wisconsin)</li>
+   <li>Kevin Sexton (UAMS) </li></ul>
+
+  <li><strong>Exploring the Evolution of the Gene Ontology and its Impact on Enrichment Analysis</strong></li>
+   <ul><li>Yi Chen (Leiden University)*</li>
+   <li>Frank Takes (Leiden University)</li>
+   <li>Fons J Verbeek (LIACS, Leiden University)</li>
+   <li>Katherine Wolstencroft (LIACS, Leiden University) </li></ul>
+
+  <li><strong>Grounding Realizable Entities</strong></li>
+   <ul><li>Michael Rabenberg (University at Buffalo)*</li>
+   <li>Carter Benson (University at Buffalo)</li>
+   <li>Federico Donato (University at Buffalo)</li>
+   <li>Yongqun He (University of Michigan)</li>
+   <li>Anthony Huffman (University of Michigan)</li>
+   <li>Shane Babcock (KadSci, LLC)</li>
+   <li>John Beverley (University at Buffalo)</li></ul>
+
+  <li><strong>Credentials in the Occupation Ontology</strong></li>
+   <ul><li>John Beverley (University at Buffalo)*</li>
+   <li>Robin McGill (ACHE)</li>
+   <li>Sam Smith (University of Michigan)</li>
+   <li>Jie Zheng (Unversity of Michigan)</li>
+   <li>Bill Duncan (University of Florida)</li>
+   <li>Matt Diller (University of Florida)</li>
+   <li>Giacomo De Colle (University at Buffalo)</li>
+   <li>Finn Wilson (University at Buffalo)</li>
+   <li>William Hogan (Medical College of Wisconsin)</li>
+   <li>Yongqun He (University of Michigan)</li></ul>
+
+
 </ul>
+
+#### Posters
 
 
 ### Contact Information 
