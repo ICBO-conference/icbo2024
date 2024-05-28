@@ -57,7 +57,7 @@
           </ul>
           <i>Submission deadline June 17, 2024  </i>
   </li><br>
-  <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science</a>
+  <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science</a><br>
           (<i>July 26 2024 Friday morning EDT hours</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
