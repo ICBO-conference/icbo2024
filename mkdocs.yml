@@ -15,8 +15,8 @@ nav:
   - Home: index.md
   - Conference: conference.md
   - Keynotes: keynotes.md
-  # - Program: program.md
-  - Call for Submissions: call.md
+  - Program: program.md
+  - Submissions: call.md
   - Registration: registration.md
   # - Travel: travel.md
   # - Example 1: example1.md
