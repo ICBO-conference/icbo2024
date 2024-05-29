@@ -6,7 +6,7 @@
 <ul>
   <li><b>Conference Dates</b>: July 17th to July 19th 2024</li> 
   <ul>
-      <li><b>Workshops/tutorials</b>: July 17, 2024</li>
+      <li><b>Virtual Open Workshops/tutorials</b>: July 10, July 22, July 24, and July 26, 2024</li>
       <li><b>Main conference</b>: July 18 - July 19, 2024</li>
   </ul>
 </ul>
@@ -31,7 +31,7 @@
           (<i>July 10 2024 Wednesday morning EDT hours</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
-            <li>Nico Matentzoglu - Semanticly, </li>
+            <li>Nico Matentzoglu - Semanticly </li>
             <li>Nicole Vasilevsky - Critical Path Institute</li>
           </ul>
   </li>
