@@ -26,7 +26,7 @@ solutions.
 <ul>
 <li><b>17 July to 19 July 2024</b></li>
 <ul>
-<li>Workshops: 17 July 2024</li>
+<li>ICBO Virtual Open Workshops: 10 July, 22 July, 24 July, and 26 July 2024</li>
 <li>Main conference: 18 July to 19 July 2024</li>
 </ul>
 </ul>
@@ -59,7 +59,7 @@ Technology, Saudi Arabia</p>
 <p>Karin Slater, University of Birmingham, UK</p>
 
 <h4><b>Coordination of Workshops and Software Demonstrations</b></h4>
-<p>Asiyah Lin, Axle Research/NCATS</p>
+<p>Asiyah Lin, Axle Research & Technology/NCATS</p>
 <p>Matthew Lange, IC-FOODS.org</p>
 
 <h4><b>Local organization (FOIS and ICBO)</b></h4>
