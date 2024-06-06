@@ -44,7 +44,7 @@
             <li>Yongqun "Oliver" He, PhD, University of Michigan Medical School</li>
             <li>Junguk Hur, PhD, University of North Dakota School of Medicine & Health Sciences</li>
           </ul>
-          <i>Submission deadline May 31, 2024.</i>
+          <i>Submission deadline June 7, 2024.</i>
   </li><br>
   <li><b><a href="https://sites.google.com/view/cells2024/home" target="_blank">W3: The 8th International Cells in Experimental Life Science Workshop, CELLS 2024 </a><br>
           (<i>July 24 2024 Wednesday morning EDT hours</i>)</b> <br>
@@ -55,7 +55,7 @@
             <li>David Osumi-Sutherland, PhD, Cambridge</li>
             <li>Tiago Lubiana, Universtity of São Paulo</li>
           </ul>
-          <i>Submission deadline June 17, 2024  </i>
+          <i>Submission deadline June 26, 2024  </i>
   </li><br>
   <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science</a><br>
           (<i>July 26 2024 Friday morning EDT hours</i>)</b> <br>
