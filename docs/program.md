@@ -36,7 +36,7 @@
           </ul>
   </li>
   <br>
-  <li><b><a href="https://vdos-workshop.github.io/vdos2024/" target="_blank">W2: The 13th International Workshop on Vaccine and Drug Ontology Studies</a><br>
+  <li><b><a href="https://vdos-workshop.github.io/vdos2024/" target="_blank">W2: The 13th International Workshop on Vaccine and Drug Ontology Studies, VODS 2024</a><br>
           (<i>July 22, 2024 Monday Tentative: 6-9am PDT/9–12pm EDT/2-5pm BST/3-6pm CEST</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
@@ -57,7 +57,7 @@
           </ul>
           <i>Submission deadline June 26, 2024  </i>
   </li><br>
-  <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science</a><br>
+  <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science, OIIDDS-2024</a><br>
           (<i>July 26 2024 Friday morning EDT hours</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
