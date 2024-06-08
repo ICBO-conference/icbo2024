@@ -28,7 +28,7 @@
 
 <ul>
   <li><b><a href="https://oboacademy.github.io/obook/courses/icbo2024/" target="_blank">W1: OBO Academy ICBO 2024</a><br>
-          (<i>July 10 2024 Wednesday morning EDT hours</i>)</b> <br>
+          (<i>July 10, 2024 Wednesday 8-10:30am PDT/11-1:30pm EDT/4-6:30pm BST/5-7:30pm CEST)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Nico Matentzoglu - Semanticly </li>
@@ -37,7 +37,7 @@
   </li>
   <br>
   <li><b><a href="https://vdos-workshop.github.io/vdos2024/" target="_blank">W2: The 13th International Workshop on Vaccine and Drug Ontology Studies</a><br>
-          (<i>July 22 2024 Monday morning EDT hours</i>)</b> <br>
+          (<i>July 22, 2024 Monday Tentative: 6-9am PDT/9–12pm EDT/2-5pm BST/3-6pm CEST</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Cui Tao, PhD, School of Biomedical Informatics, University of Texas, Health Science Center at Houston</li>
@@ -47,7 +47,7 @@
           <i>Submission deadline June 7, 2024.</i>
   </li><br>
   <li><b><a href="https://sites.google.com/view/cells2024/home" target="_blank">W3: The 8th International Cells in Experimental Life Science Workshop, CELLS 2024 </a><br>
-          (<i>July 24 2024 Wednesday morning EDT hours</i>)</b> <br>
+          (<i>July 24, 2024 Wednesday 8-11am PT/11–2pm ET/4-7pm BST/5-8pm CEST</i>)</b> <br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Alexander D. Diehl, PhD, University at Buffalo</li>
