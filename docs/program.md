@@ -29,6 +29,7 @@
 <ul>
   <li><b><a href="https://oboacademy.github.io/obook/courses/icbo2024/" target="_blank">W1: OBO Academy ICBO 2024</a><br>
           (<i>July 10, 2024 Wednesday 8-10:30am PDT/11-1:30pm EDT/4-6:30pm BST/5-7:30pm CEST)</b> <br>
+          <i><a href="https://forms.gle/JdtCNtJRUcM3u3se8">Register to attend OBO Academy Tutorial 2024</a></i><br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Nico Matentzoglu - Semanticly </li>
@@ -38,6 +39,7 @@
   <br>
   <li><b><a href="https://vdos-workshop.github.io/vdos2024/" target="_blank">W2: The 13th International Workshop on Vaccine and Drug Ontology Studies, VODS 2024</a><br>
           (<i>July 22, 2024 Monday Tentative: 6-9am PDT/9–12pm EDT/2-5pm BST/3-6pm CEST</i>)</b> <br>
+          <i><a href="https://forms.gle/JdtCNtJRUcM3u3se8">Register to attend VDOS 2024</a></i><br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Cui Tao, PhD, School of Biomedical Informatics, University of Texas, Health Science Center at Houston</li>
@@ -48,6 +50,7 @@
   </li><br>
   <li><b><a href="https://sites.google.com/view/cells2024/home" target="_blank">W3: The 8th International Cells in Experimental Life Science Workshop, CELLS 2024 </a><br>
           (<i>July 24, 2024 Wednesday 8-11am PT/11–2pm ET/4-7pm BST/5-8pm CEST</i>)</b> <br>
+           <i><a href="https://forms.gle/JdtCNtJRUcM3u3se8">Register to attend CELLS 2024</a></i><br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Alexander D. Diehl, PhD, University at Buffalo</li>
@@ -59,6 +62,7 @@
   </li><br>
   <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science, OIIDDS-2024</a><br>
           (<i>July 26 2024 Friday morning EDT hours</i>)</b> <br>
+           <i><a href="https://forms.gle/JdtCNtJRUcM3u3se8">Register to attend OIIDDS 2024</a></i><br>
           <i>Co-organizers</i>: 
           <ul>
             <li>Asiyah Yu Lin, Axle Research and Technology</li>
