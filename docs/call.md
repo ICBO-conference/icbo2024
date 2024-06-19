@@ -157,6 +157,10 @@ We will accept research papers in these categories:
     <li><b>Posters session will be in-person.</b></li>
     <li>Posters should be prepared on A0 paper size, vertically (portrait) orientation, paper
         or fabric material.</li>
+        <ul>
+        <li>33.11in x 46.81in</li>
+        <li>841mm x 1189mm</li>
+        </ul>
     <li>As part of the conference program, <b>each poster presenter MUST give a
                 brief flash talk of approximately 2 minutes</b> during
         the designated session.</li>
