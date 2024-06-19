@@ -155,8 +155,7 @@ We will accept research papers in these categories:
 ### Poster preparation guidelines
 <ul>
     <li><b>Posters session will be in-person.</b></li>
-    <li>Posters should be prepared on A0 paper size, vertically (portrait) orientation, paper
-        or fabric material.</li>
+    <li>Posters should be prepared on A0 paper size, vertically (portrait) orientation, paper or fabric material.</li>
         <ul>
         <li>33.11in x 46.81in</li>
         <li>841mm x 1189mm</li>
