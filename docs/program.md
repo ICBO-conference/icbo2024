@@ -198,6 +198,95 @@
 
 </ul>
 
+## Details
+
+<h4>July 18</h4>
+
+<table>
+  <tr>
+    <th>Schedule</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>09:00 - 09:30</td>
+    <td>ICBO Opening and welcome (Robert Hoehndorf)</td>
+  </tr>
+  <tr>
+    <td>09:30 - 10:30</td>
+    <td>Keynote Lecture: Michel Dumontier</td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:30</td>
+    <td>Semantic Representation of Preclinical Data in Radiation Oncology</td>
+  </tr>
+  <tr>
+    <td>11:30 - 12:15</td>
+    <td>Poster Flash Talks</td>
+  </tr>
+  <tr>
+    <td>14:30 - 15:00</td>
+    <td>Poster Session Continued</td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td>Expanding the Ontology of Organizational Structures of Trauma Centers and Trauma Systems</td>
+  </tr>
+  <tr>
+    <td>15:30 - 16:00</td>
+    <td>Modeling Biomedical Burdens in Basic Formal Ontology</td>
+  </tr>
+
+</table>
+
+<h4>July 19</h4>
+
+<table>
+  <tr>
+    <th>Schedule</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>09:30 - 10:30</td>
+    <td>Keynote Lecture: Barend Mons</td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:30</td>
+    <td>Credentials in the Occupation Ontology</td>
+  </tr>
+  <tr>
+    <td>11:30 - 12:00</td>
+    <td>(Re-)bridging the anatomy ontologies with SSSOM</td>
+  </tr>
+  <tr>
+    <td>12:00 - 12:30</td>
+    <td>Grounding Realizable Entities</td>
+  </tr>
+  <tr>
+    <td>14:00 - 14:30</td>
+    <td>Exploring the Evolution of the Gene Ontology and its Impact on Enrichment Analysis</td>
+  </tr>
+  <tr>
+    <td>14:30 - 15:00</td>
+    <td>Building An Ecological Mental Functioning Ontology: An Informatics Perspective</td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td>Empowering Standardization of Cancer Vaccines through Ontology: Enhanced modeling and data analysis</td>
+  </tr>
+  <tr>
+    <td>16:00 - 16:30</td>
+    <td>Concretizing Plan Specifications as Realizables within the OBO Foundry</td>
+  </tr>
+  <tr>
+    <td>16:30 - 17:30</td>
+    <td>Community plenary discussion: Future ICBO, topics, and organization (Bill Duncan and Asiyah Lin)</td>
+  </tr>
+  <tr>
+    <td>17:30</td>
+    <td>Closing (Bill Duncan and Asiyah Lin)</td>
+  </tr>
+</table>
+
 ### Contact Information 
 
 Please direct all further questions to <a href="mailto:icbo-2024@googlegroups.com">icbo-2024@googlegroups.com</a>
