@@ -209,11 +209,11 @@
   </tr>
   <tr>
     <td>09:00 - 09:30</td>
-    <td>ICBO Opening and welcome (Robert Hoehndorf)</td>
+    <td>ICBO <strong>Opening and Welcome</strong> (Robert Hoehndorf)</td>
   </tr>
   <tr>
     <td>09:30 - 10:30</td>
-    <td>Keynote Lecture: Michel Dumontier</td>
+    <td><strong>Keynote Lecture</strong>: <a href="https://www.maastrichtuniversity.nl/mj-dumontier" target="_blank"> Michel Dumontier</td>
   </tr>
   <tr>
     <td>11:00 - 11:30</td>
@@ -247,7 +247,7 @@
   </tr>
   <tr>
     <td>09:30 - 10:30</td>
-    <td>Keynote Lecture: Barend Mons</td>
+    <td><strong>Keynote Lecture</strong>: <a href="https://www.universiteitleiden.nl/en/staffmembers/barend-mons#tab-1" target="_blank"> Barend Mons</td>
   </tr>
   <tr>
     <td>11:00 - 11:30</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>11:30 - 12:00</td>
-    <td>(Re-)bridging the anatomy ontologies with SSSOM</td>
+    <td>(Re-)bridging the Anatomy Ontologies with SSSOM</td>
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
