@@ -176,7 +176,7 @@ We will accept research papers in these categories:
     <li>Presentation Time:</li>
     <ul>
 	<li><b><i>Full Papers:</i></b> Your presentation will be
-		allocated a total of 30 minutes which should include 5 minutes for
+		allocated a total of 25 minutes which should include 5 minutes for
 		discussion.</li>
 	<li><b><i>Short Papers:</i></b> Your presentation will be 25
 		minutes, with an additional 5 minutes allotted for
