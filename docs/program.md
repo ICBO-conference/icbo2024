@@ -274,10 +274,6 @@
     <td>Empowering Standardization of Cancer Vaccines through Ontology: Enhanced modeling and data analysis</td>
   </tr>
   <tr>
-    <td>16:00 - 16:30</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>16:30 - 17:30</td>
     <td>Community plenary discussion: Future ICBO, topics, and organization (Bill Duncan and Asiyah Lin)</td>
   </tr>
