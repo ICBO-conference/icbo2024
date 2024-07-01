@@ -267,7 +267,7 @@
   </tr>
   <tr>
     <td>14:30 - 15:00</td>
-    <td>Building An Ecological Mental Functioning Ontology: An Informatics Perspective</td>
+    <td>Concretizing Plan Specifications as Realizables within the OBO Foundry</td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -275,7 +275,7 @@
   </tr>
   <tr>
     <td>16:00 - 16:30</td>
-    <td>Concretizing Plan Specifications as Realizables within the OBO Foundry</td>
+    <td></td>
   </tr>
   <tr>
     <td>16:30 - 17:30</td>
