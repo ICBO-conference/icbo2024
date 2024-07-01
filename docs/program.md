@@ -198,7 +198,7 @@
 
 </ul>
 
-## Details
+## ICBO Details
 
 <h4>July 18</h4>
 
@@ -282,6 +282,10 @@
     <td>Closing (Bill Duncan and Asiyah Lin)</td>
   </tr>
 </table>
+
+## Entire Program
+
+Please check the entire program here: <a href="https://www.utwente.nl/en/eemcs/fois2024/program/" target="_blank">https://www.utwente.nl/en/eemcs/fois2024/program/</a>
 
 ### Contact Information 
 
