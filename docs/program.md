@@ -80,7 +80,7 @@
 
 <ul>
   <li><strong>Empowering Standardization of Cancer Vaccines through Ontology: Enhanced modeling and data analysis</strong> - for <a href="https://jbiomedsci.biomedcentral.com" target="_blank">JBMS Direct-to-Journal Track</a> </li>
-  <ul><li>Jie Zhen et al.</li></ul>
+  <ul><li>Jie Zheng et al.</li></ul>
 
   <li><strong>(Re-)bridging the anatomy ontologies with SSSOM</strong></li>
   <ul><li> Damien Goutte-Gattat (University of Cambridge)</li>
