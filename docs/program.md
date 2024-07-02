@@ -224,15 +224,15 @@
     <td>Poster Flash Talks</td>
   </tr>
   <tr>
-    <td>14:30 - 15:00</td>
+    <td>14:00 - 14:30</td>
     <td>Poster Session Continued</td>
   </tr>
   <tr>
-    <td>15:00 - 15:30</td>
+    <td>14:30 - 15:00</td>
     <td>Expanding the Ontology of Organizational Structures of Trauma Centers and Trauma Systems</td>
   </tr>
   <tr>
-    <td>15:30 - 16:00</td>
+    <td>15:00 - 15:30</td>
     <td>Modeling Biomedical Burdens in Basic Formal Ontology</td>
   </tr>
 
