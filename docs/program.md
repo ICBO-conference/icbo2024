@@ -46,6 +46,11 @@
             <li>Yongqun "Oliver" He, PhD, University of Michigan Medical School</li>
             <li>Junguk Hur, PhD, University of North Dakota School of Medicine & Health Sciences</li>
           </ul>
+          <i>Participants access</i>:
+          <ul>
+            <li>Zoom link: <a href="https://umich.zoom.us/j/91595773163" target="_blank">https://umich.zoom.us/j/91595773163</a></li>
+            <li>Pass code: 264257</li>
+          </ul>
           <i>Submission deadline June 7, 2024.</i>
   </li><br>
   <li><b><a href="https://sites.google.com/view/cells2024/home" target="_blank">W3: The 8th International Cells in Experimental Life Science Workshop, CELLS 2024 </a><br>
