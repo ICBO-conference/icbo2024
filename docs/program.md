@@ -201,6 +201,24 @@
    <li>Alexander D Diehl (University at Buffalo)</li>
    <li>Bill Duncan (University of Florida)</li></ul>
 
+<li><strong>Comparison of the OBO Foundry Principles with the FAIR and TRUST Principles</strong></li>
+   <ul>
+   <li>Anna Maria Masci</li>
+   <li>Daniela Rosu</li>
+   <li>Asiyah Y. Lin</li>
+   </ul>
+
+<li><strong>ON TO A Better Path to Choose Your Best Ontologies</strong></li>
+   <ul>
+   <li>Asiyah Yu Lin</li>
+   <li>John Graybeal</li>
+   <li>Anna Maria Masci</li>
+   <li>Juliane Schneider</li>
+   <li>Ruth Duerr</li>
+   <li>Eric G Stephan</li>
+   <li>Hande Kũçük McGinty</li>
+   </ul>
+
 </ul>
 
 ## ICBO Details
