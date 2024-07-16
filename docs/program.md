@@ -65,18 +65,6 @@
           </ul>
           <i>Submission deadline June 26, 2024  </i>
   </li><br>
-  <li><b><a href="https://oiidds.github.io/OIIDDS-2024/" target="_blank">W4: 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science, OIIDDS-2024</a><br>
-          (<i>July 26 2024 Friday morning EDT hours</i>)</b> <br>
-           <i><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMkduCa1Z6LVWRk62QZ79W4HpRGqoFmTeiQ9fJodoHTuLDQ/viewform" target="_blank">Register to attend OIIDDS 2024</a></i><br>
-          <i>Co-organizers</i>: 
-          <ul>
-            <li>Asiyah Yu Lin, Axle Research and Technology</li>
-            <li>Alexander Diehl, University at Buffalo</li>
-            <li>John Beverley, University at Buffalo</li>
-            <li>Lindsay G. Cowell, UT Southwestern Medical Center</li>
-          </ul>
-          <i>Submission deadline June 26, 2024 </i>
-  </li>
 </ul>
 
 ## Accepted papers
