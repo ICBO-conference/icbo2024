@@ -20,6 +20,10 @@ applications.
 ICBO 2024 is colocated with the 14th International Conference on
 Formal Ontology in Information Systems (FOIS).
 
+### Program
+
+Access ICBO program here: [https://icbo-conference.github.io/icbo2024/program/](program.md)
+
 ### Important Dates 
 
   <ul>
